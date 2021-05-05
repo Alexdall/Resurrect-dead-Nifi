@@ -18,5 +18,7 @@ delete_directories.sh: a simple script to clean the backup files
 Step-by-step:
 
 1.Copy the template-docker-restore
+
 2.Change the Dockerfile, download_files.sh or build_run.sh as you need
+
 3.run build_run.sh
