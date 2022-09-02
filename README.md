@@ -6,7 +6,7 @@ If you work with nifi servers, eventually you already been left with the process
 
 Files explanation:
 
-download_files.sh: backup scritp. Copy of source directories and files to the local current directory in order to to recreate the old nifi container
+download_files.sh: backup script. Copy of source directories and files to the local current directory in order to to recreate the old nifi container
 
 Dockerfile: text document that contains all the commands a user could call on the command line to assemble an image. In this case, also copy the backup files to new nifi container will be created.
 
